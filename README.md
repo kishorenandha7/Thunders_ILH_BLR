@@ -19,3 +19,5 @@ MetaMask wallets.
 Solidity.
 Basic knowledge of HTML and CSS.
 
+NOTE:
+ This Hybrid Ticket Booking System using Blockchain were developed as a part of ILH Bangalore edition by TEAM Thunders.
