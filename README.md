@@ -10,12 +10,12 @@ Features:
 User Registration: Users can register for tickets.
 Eligibility Management: Manages eligible users and waitlists.
 User Cancellation: Users can cancel their eligibility.
-Transparent and Secure: Utilizes blockchain for transparency and security
+Transparent and Secure: Utilizes blockchain for transparency and security.
 
 Prerequisites:
 
-Node.jsand npm
-MetaMask wallets
-Solidity
-Basic knowledge of HTML and CSS
+Node.jsand npm.
+MetaMask wallets.
+Solidity.
+Basic knowledge of HTML and CSS.
 
